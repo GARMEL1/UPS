@@ -1,0 +1,12 @@
+C:\Users\golub\source\repos\UPS\UPS\bin\Debug\UPS.exe.config
+C:\Users\golub\source\repos\UPS\UPS\bin\Debug\UPS.exe
+C:\Users\golub\source\repos\UPS\UPS\bin\Debug\UPS.pdb
+C:\Users\golub\source\repos\UPS\UPS\bin\Debug\HidLibrary.dll
+C:\Users\golub\source\repos\UPS\UPS\obj\Debug\UPS.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\UPS\UPS\obj\Debug\UPS.Form1.resources
+C:\Users\golub\source\repos\UPS\UPS\obj\Debug\UPS.Properties.Resources.resources
+C:\Users\golub\source\repos\UPS\UPS\obj\Debug\UPS.csproj.GenerateResource.cache
+C:\Users\golub\source\repos\UPS\UPS\obj\Debug\UPS.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\UPS\UPS\obj\Debug\UPS.csproj.CopyComplete
+C:\Users\golub\source\repos\UPS\UPS\obj\Debug\UPS.exe
+C:\Users\golub\source\repos\UPS\UPS\obj\Debug\UPS.pdb
